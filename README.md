@@ -10,9 +10,9 @@
 ---
 
 ## 🎯Intrests
--Game development
--Backend design
--applied ai
+- Game development
+- Backend design
+- applied ai
 
 ---
 
