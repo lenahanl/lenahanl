@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Liam Lenahan
-#Im a Computer Science student at Northeastern University. I am very passionate about software development, though I am looking to learn more about Data Science and AI to help broaden my net of technical skills. I am very flexible and I'm willing to learn new ideas to fit into any role I'm needed in.
+Im a Computer Science student at Northeastern University. I am very passionate about software development, though I am looking to learn more about Data Science and AI to help broaden my net of technical skills. I am very flexible and I'm willing to learn new ideas to fit into any role I'm needed in.
 
 ## 🛠️ Technologies & Tools
 
